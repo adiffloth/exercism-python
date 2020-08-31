@@ -9,7 +9,8 @@ c = [
     "violet",
     "grey",
     "white",
-    ]
+]
+
 
 def color_code(color):
     return c.index(color)
@@ -17,4 +18,3 @@ def color_code(color):
 
 def colors():
     return c
-    

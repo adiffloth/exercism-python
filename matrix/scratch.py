@@ -12,5 +12,5 @@ npm = np.array(m).astype(int)
 
 index = 2
 
-print(npm[index-1])
-print(npm[:,index-1])
+print(npm[index - 1])
+print(npm[:, index - 1])

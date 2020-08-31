@@ -10,7 +10,7 @@ def convert(number):
     if number % 7 == 0:
         result = result + 'Plong'
         factored = True
-    
+
     if not factored:
         result = str(number)
 

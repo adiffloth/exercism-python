@@ -9,7 +9,7 @@ c = [
     "violet",
     "grey",
     "white",
-    ]
+]
 
 
 def value(colors):
